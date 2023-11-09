@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/detoxweb/static/css/main.4accf2d6.css",
+    "main.js": "/detoxweb/static/js/main.9943c4d2.js",
+    "static/js/151.4eb0f051.chunk.js": "/detoxweb/static/js/151.4eb0f051.chunk.js",
+    "static/js/995.dd0d5958.chunk.js": "/detoxweb/static/js/995.dd0d5958.chunk.js",
+    "static/js/209.39bdb73c.chunk.js": "/detoxweb/static/js/209.39bdb73c.chunk.js",
+    "static/js/437.3a94713c.chunk.js": "/detoxweb/static/js/437.3a94713c.chunk.js",
+    "static/js/787.e3d12fea.chunk.js": "/detoxweb/static/js/787.e3d12fea.chunk.js",
+    "static/js/149.21ca9be1.chunk.js": "/detoxweb/static/js/149.21ca9be1.chunk.js",
+    "static/js/908.e12e9536.chunk.js": "/detoxweb/static/js/908.e12e9536.chunk.js",
+    "static/js/223.6388a3f4.chunk.js": "/detoxweb/static/js/223.6388a3f4.chunk.js",
+    "index.html": "/detoxweb/index.html",
+    "main.4accf2d6.css.map": "/detoxweb/static/css/main.4accf2d6.css.map",
+    "main.9943c4d2.js.map": "/detoxweb/static/js/main.9943c4d2.js.map",
+    "151.4eb0f051.chunk.js.map": "/detoxweb/static/js/151.4eb0f051.chunk.js.map",
+    "995.dd0d5958.chunk.js.map": "/detoxweb/static/js/995.dd0d5958.chunk.js.map",
+    "209.39bdb73c.chunk.js.map": "/detoxweb/static/js/209.39bdb73c.chunk.js.map",
+    "437.3a94713c.chunk.js.map": "/detoxweb/static/js/437.3a94713c.chunk.js.map",
+    "787.e3d12fea.chunk.js.map": "/detoxweb/static/js/787.e3d12fea.chunk.js.map",
+    "149.21ca9be1.chunk.js.map": "/detoxweb/static/js/149.21ca9be1.chunk.js.map",
+    "908.e12e9536.chunk.js.map": "/detoxweb/static/js/908.e12e9536.chunk.js.map",
+    "223.6388a3f4.chunk.js.map": "/detoxweb/static/js/223.6388a3f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4accf2d6.css",
+    "static/js/main.9943c4d2.js"
+  ]
+}
