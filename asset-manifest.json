@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/detoxweb/static/css/main.c16d3e86.css",
-    "main.js": "/detoxweb/static/js/main.ff2a5c8c.js",
+    "main.js": "/detoxweb/static/js/main.98d484a1.js",
     "static/js/813.05bd031a.chunk.js": "/detoxweb/static/js/813.05bd031a.chunk.js",
     "static/js/440.8cd2a5ea.chunk.js": "/detoxweb/static/js/440.8cd2a5ea.chunk.js",
     "static/js/953.08ded252.chunk.js": "/detoxweb/static/js/953.08ded252.chunk.js",
@@ -18,7 +18,7 @@
     "static/js/890.fc9f6fbf.chunk.js": "/detoxweb/static/js/890.fc9f6fbf.chunk.js",
     "index.html": "/detoxweb/index.html",
     "main.c16d3e86.css.map": "/detoxweb/static/css/main.c16d3e86.css.map",
-    "main.ff2a5c8c.js.map": "/detoxweb/static/js/main.ff2a5c8c.js.map",
+    "main.98d484a1.js.map": "/detoxweb/static/js/main.98d484a1.js.map",
     "813.05bd031a.chunk.js.map": "/detoxweb/static/js/813.05bd031a.chunk.js.map",
     "440.8cd2a5ea.chunk.js.map": "/detoxweb/static/js/440.8cd2a5ea.chunk.js.map",
     "953.08ded252.chunk.js.map": "/detoxweb/static/js/953.08ded252.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.c16d3e86.css",
-    "static/js/main.ff2a5c8c.js"
+    "static/js/main.98d484a1.js"
   ]
 }
